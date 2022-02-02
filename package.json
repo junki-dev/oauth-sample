@@ -1,0 +1,24 @@
+{
+  "name": "oauthsample",
+  "version": "1.0.0",
+  "description": "## 목표 생활코딩 OAuth 2.0 수업을 보며 아주 기본적인 개념과 컨셉을 익히고 따라해본다.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junki-dev/oauth-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junki-dev/oauth-sample/issues"
+  },
+  "homepage": "https://github.com/junki-dev/oauth-sample#readme",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^4.17.2"
+  },
+  "type": "module"
+}
